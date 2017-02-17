@@ -1,0 +1,38 @@
+html{
+	font-size:100px;
+	}
+body{
+	font-size:12px;
+	font-family:Arial,"Hiragino Sans GB W3","Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+	-webkit-tap-highlight-color:transparent;
+	-webkit-font-smoothing:antialiased;
+	}
+*{
+	margin:0;
+	padding:0;
+	}
+img,li{
+	vertical-align:middle;
+	}
+ul{
+	list-style-type:none;
+	}
+li{
+	list-style:none;
+	}
+a{
+	text-decoration:none;
+	color:inherit;
+}
+em,i{
+	font-style:normal;
+}
+img{
+	vertical-align:top;
+	max-width:100%;
+	}
+.clearfix:after{
+	content:"";
+	display:table;
+	clear:both;
+	}
